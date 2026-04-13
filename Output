@@ -1,0 +1,18 @@
+//Input & output : 
+
+
+Enter number of players: 3
+Enter player name: Atul Kumar
+Enter score: 89
+Enter player name: Pushkar sahu
+Enter score: 90
+Enter player name: Dipak Kumar
+Enter score: 88
+
+Game Scoreboard
+Rank    Player Name     Score
+1       Pushkar sahu            90
+2       Atul Kumar              89
+3       Dipak Kumar             88
+
+Top Player: Pushkar sahu
